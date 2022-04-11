@@ -7,3 +7,5 @@ Alumno: jpriora, Joshua Prior Avila
 En el archivo "PRA1.ipynb" se encuentra el código python usado para extraer la información de CoinMarketCap.
 
 En el archivo "Ganadores.csv" encontramos la extracción de datos inicial.
+
+En el archivo "PRA1.pdf" se encuentran las respuestas a los apartados 1-10.
